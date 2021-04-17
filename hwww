@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>
+My first web page
+</title>
+<style>
+body{background-color:lightgreen;color:white;}
+</style>
+</head>
+<body>
+<marquee direction="right"><h1>I learnt web development.</h1></marquee>
+<p>Nothing</p>
+</body>
+</html>
